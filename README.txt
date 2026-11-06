@@ -1,4 +1,4 @@
-RHM ERNYPS4 14.00 LEGACY HOST
+ARIAL HOSTPS4 14.00 LEGACY HOST
 
 This rebuild removes ES modules/import/export and other modern application
 features. It is intended to render on the PS4 browser as a simple static page.
